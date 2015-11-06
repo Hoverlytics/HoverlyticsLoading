@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>minimize-left-side</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="minimize-left-side" sketch:type="MSArtboardGroup" fill="#D8D8D8">
+            <path d="M-12.0690203,16.0776422 L-7.17011913,11.1787411 C-6.47792332,11.493526 -6,12.1906638 -6,13.0001062 L-6,25.9998938 C-6,27.1099416 -6.89547804,28 -8.00010618,28 L-20.9998938,28 C-21.8124489,28 -22.5071284,27.5201812 -22.8211155,26.8297375 L-22.8211155,26.8297375 L-17.7258745,21.7344965 L-28.5851753,10.8751957 C-29.3624533,10.0979178 -29.3674361,8.82780712 -28.587129,8.0475 L-25.7560168,5.21638778 C-24.9701418,4.43051284 -23.7097072,4.43695534 -22.9283211,5.21834143 L-12.0690203,16.0776422 Z" id="Rectangle-11" sketch:type="MSShapeGroup" transform="translate(-1.000000, 33.000000) scale(-1, 1) translate(1.000000, -33.000000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>minimize-right-side</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="minimize-right-side" sketch:type="MSArtboardGroup" fill="#D8D8D8">
+            <path d="M21.9309797,16.0776422 L26.8298809,11.1787411 C27.5220767,11.493526 28,12.1906638 28,13.0001062 L28,25.9998938 C28,27.1099416 27.104522,28 25.9998938,28 L13.0001062,28 C12.1875511,28 11.4928716,27.5201812 11.1788845,26.8297375 L11.1788845,26.8297375 L16.2741255,21.7344965 L5.41482466,10.8751957 C4.63754675,10.0979178 4.6325639,8.82780712 5.41287102,8.0475 L8.24398323,5.21638778 C9.02985817,4.43051284 10.2902928,4.43695534 11.0716789,5.21834143 L21.9309797,16.0776422 Z" id="Rectangle-11" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
